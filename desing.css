@@ -10,7 +10,7 @@ html, body
     min-height: 100vh;
     background-color: rgb(16, 200, 224);
 }
- head {
+ head > h1 {
      background-color: whitesmoke;
      color: green;
 
