@@ -8,5 +8,10 @@
 html, body
 { 
     min-height: 100vh;
-    background-color: bisque;
+    background-color: rgb(16, 200, 224);
 }
+ head {
+     background-color: whitesmoke;
+     color: green;
+
+ }
