@@ -3,22 +3,24 @@
 * {
     margin: 0px;
     padding: 0px;
+    padding-top: 10px;
 }
 
 html, body
 { 
     min-height: 100vh;
-    background-color: royalblue;
+    background-color: rgb(177, 225, 65);
     text-align: center;
     text-transform: uppercase;
 }
 header {
 font-style: oblique;
-background-color: brown;
-color: goldenrod;
+background-color: rgb(218, 10, 10);
+color: black;
 line-height: 4em;
 padding-top: 10px;
 }
+
 
 
  
