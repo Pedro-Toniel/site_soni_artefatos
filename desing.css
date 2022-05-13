@@ -8,10 +8,17 @@
 html, body
 { 
     min-height: 100vh;
-    background-color: rgb(16, 200, 224);
+    background-color: royalblue;
+    text-align: center;
+    text-transform: uppercase;
 }
- head > h1 {
-     background-color: whitesmoke;
-     color: green;
+header {
+font-style: oblique;
+background-color: brown;
+color: goldenrod;
+line-height: 4em;
+padding-top: 10px;
+}
 
- }
+
+ 
