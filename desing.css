@@ -14,8 +14,8 @@ html, body
 }
 header {
 font-style: oblique;
-background-color: brown;
-color: goldenrod;
+background-color: rgb(95, 93, 93);
+color: whitesmoke;
 line-height: 4em;
 padding-top: 10px;
 }
