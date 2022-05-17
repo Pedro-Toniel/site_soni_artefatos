@@ -9,17 +9,19 @@
 html, body
 { 
     min-height: 100vh;
-    background-color: black;
+    background-color: white;
     text-align: center;
     text-transform: uppercase;
     padding-top: 10px;
 }
 header {
-font-style: oblique;
-background-color: rgb(218, 10, 10);
-color: rgb(183, 238, 34);
-line-height: 11px;
-padding-top: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: normal;
+font-size:xx-large;
+background-color: rgb(138, 132, 132);
+color: rgb(15, 9, 9);
+line-height: 20px;
+padding-top: 5px;
 }
 
 
