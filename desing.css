@@ -16,7 +16,8 @@ html, body
     text-align: center;
     text-transform: uppercase;
     padding-top: 10px;
-    border: 10px solid rgba(255, 77, 6, 0.959); 
+    border: 5px solid rgba(255, 77, 6, 0.959); 
+    margin: 8px 8px 8px 8px;
     
 }
 header {
@@ -34,6 +35,16 @@ background-image: url('imagens site/fossa site 01.jpg');
 border: 1px solid rgba(255, 77, 6, 0.959);
 border-radius: 5px;
 
+}
+
+h3 {
+    border: 3px solid rgba(255, 77, 6, 0.425);
+    border-radius: 5px;
+    width: 300px;
+    line-height: 30px;
+    text-align-last: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 
