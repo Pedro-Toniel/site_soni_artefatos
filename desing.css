@@ -39,6 +39,11 @@ section.imagem{
     background-size: 300px;
     height: 290px;
 }
+a{
+    font-size: smaller;
+    text-transform: uppercase;
+    color:green;
+}
 h2{
     font-size: 25px;
 }
