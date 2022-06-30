@@ -58,6 +58,9 @@ footer{
     font-size: 15px;
     height:4vh;
 }
+footer > p >a{
+    color: blue;
+}
 
 .btn-link{
     border-radius: 8px;
