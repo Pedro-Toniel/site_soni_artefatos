@@ -69,3 +69,11 @@ footer > p >a{
     color: bisque;
     box-shadow:3px 3px 3px black ;
 }
+inframe{
+    position:right ;
+    height: 300px;
+    width: 200px;
+    border-radius: 6px;
+   
+
+}
