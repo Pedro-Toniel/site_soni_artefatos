@@ -2,7 +2,7 @@
 
  *{
      margin: 0px;
-     padding: opx;
+     padding: 0px;
  }
 
 
@@ -82,4 +82,8 @@ inframe{
     width: 200px;
     border-radius: 6px;
 
+}
+
+@media (max-width: 426px) {
+    
 }
